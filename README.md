@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Harshit
-- I’m interested in learning about new things.
-- My area of expertise is full stack Android Development(Both Java and Kotlin) & Flutter.
-- I’m currently learning more about Backend using Node.js and MongoDB.
+- I'm a passionate and dynamic software developer. I thrive on challenges and enjoy exploring new technologies to enhance my skills.
+- My area of expertise is full stack Mobile Development & Flutter.
 - 📫 How to reach me -> harshitk.cp@gmail.com
