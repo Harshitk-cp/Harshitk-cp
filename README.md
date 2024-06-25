@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Harshit
-- I'm a passionate and dynamic software developer. I thrive on challenges and enjoy exploring new technologies to enhance my skills.
-- My area of expertise is full stack Mobile Development & Flutter.
+- I'm a passionate and dynamic software engineer. I thrive on challenges and enjoy exploring new technologies to enhance my skills.
+- My area of expertise is full stack Mobile Development, Flutter & Node.js.
+- Currently exploring Golang and the world of backend.
 - 📫 How to reach me -> harshitk.cp@gmail.com
